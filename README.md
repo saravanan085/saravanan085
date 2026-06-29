@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Saravanan
 
-<!--
-**saravanan085/saravanan085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- TypeScript
+- MongoDB
+- PostgreSQL
+- Redis
+- Socket.IO
+
+🌱 Currently Learning
+
+- AI SDK
+- MCP
+- Docker
+- Kubernetes
+
+📫 Contact
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://bot0.in
+
+⭐ Fun Fact
+I enjoy building scalable web applications and AI-powered products.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saravanan085&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan085&layout=compact)
