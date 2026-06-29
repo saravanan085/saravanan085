@@ -32,7 +32,7 @@
 ⭐ Fun Fact
 I enjoy building scalable web applications and AI-powered products.
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![React](https://img.shields.io/badge/React-4274D9?logo=react)
 
 ![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
@@ -46,7 +46,7 @@ I enjoy building scalable web applications and AI-powered products.
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazonaws&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-474747?logo=github)
+[![GitHub](https://img.shields.io/badge/GitHub-474747?logo=github)](https://github.com/saravanan085)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-s-3baa5b256)
 
