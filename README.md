@@ -35,16 +35,18 @@ I enjoy building scalable web applications and AI-powered products.
 
 ![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![NodeJS](https://img.shields.io/badge/Node.js-A5CF83?logo=node.js)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-4BB8FA?logo=typescript)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-A4CE8B?logo=mongodb)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4BB8FA?logo=postgresql)
 
-![AWS](https://img.shields.io/badge/AWS-29D1F5?logo=aws)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazonaws&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-474747?logo=github)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-007BFF?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravanan-s-3baa5b256)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://portfolio.bot0.in)
