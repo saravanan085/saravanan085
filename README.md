@@ -21,6 +21,7 @@
 - AI SDK
 - MCP
 - Docker
+- AWS
 - Kubernetes
 
 📫 Contact
