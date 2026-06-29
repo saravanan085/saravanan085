@@ -44,7 +44,7 @@ I enjoy building scalable web applications and AI-powered products.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4BB8FA?logo=postgresql)
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-474747?logo=github)](https://github.com/saravanan085)
 
